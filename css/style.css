@@ -1,0 +1,49 @@
+.head,.body-Section{
+	text-align: center;
+	margin-top: 30px;
+}
+
+
+.table-Section{
+	margin-top: 20px;
+}
+
+img{
+  width: 175px;
+  height: auto;
+}
+
+table, td {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
+
+table{
+  display: none;
+}
+
+
+h1{
+    color: black;
+    text-align: center;
+    border-top: solid;
+    border-width: 2px;
+    border-bottom: solid;
+    border-color: gray;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  td{
+    color: #55565A;
+    font-size: 15px;
+  }
+
+  .headings{
+    color: #4F5874;
+    font-size: 20px;
+  }
